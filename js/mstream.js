@@ -94,7 +94,7 @@ $(document).ready(function () {
     padding: 15
   });
   $('#speedModal').iziModal({
-    title: 'Playback',
+    title: '播放速度',
     headerColor: '#5a5a6a',
     width: 475,
     focusInput: false,
